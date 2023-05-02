@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "toy_flowchart_2"
+  navbar:
+    left:
+      - href: index.qmd
+        text: iframe
+      - pdf.qmd
+      - png.qmd
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

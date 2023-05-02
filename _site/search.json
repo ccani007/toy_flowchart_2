@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Toy Flowchart",
+    "section": "",
+    "text": "<!DOCTYPE html>"
+  },
+  {
+    "objectID": "index.html#the-toy-flowchart",
+    "href": "index.html#the-toy-flowchart",
+    "title": "Toy Flowchart",
+    "section": "\nThe toy flowchart\n",
+    "text": "The toy flowchart"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
