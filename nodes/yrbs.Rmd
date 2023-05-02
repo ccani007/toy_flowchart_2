@@ -1,0 +1,43 @@
+---
+title: " Youth Risk Behavior Surveillance System YRBSS"
+author: "Catalina Cañizares"
+output: html_document
+---
+[Source](https://www.cdc.gov/healthyyouth/data/yrbs/overview.htm)
+
+# Youth Risk Behavior Surveillance System (YRBSS)
+
+The Youth Risk Behavior Surveillance System (YRBSS) is a set of surveys that track behaviors that can lead to poor health in public school students grades 9 through 12. 
+
+The surveys are administered every other year.   
+
+Some of the health-related behaviors and experiences monitored are:
+
+- Student demographics: sex, sexual identity, race and ethnicity, and grade
+
+- Youth health behaviors and conditions: sexual, injury and violence, bullying, diet and physical activity, obesity, and mental health, including suicide
+
+- Substance use behaviors: electronic vapor product and tobacco product use, alcohol use, and other drug use
+
+- Student experiences: parental monitoring, school connectedness, unstable housing, and exposure to community violence
+a group of teens
+
+Data is also collected on sex and sexual orientation. The survey is anonymous, and no identifying data are collected.
+
+
+**What is the purpose of YRBSS?**
+
+The YRBSS was designed to:
+
+- Determine how often unhealthy behaviors occur
+- Assess whether unhealthy behaviors increase, decrease, or stay the same over time
+- Provide data at the national, state, territorial and freely associated state, tribal, and local levels
+- Provide data comparing different groups of adolescents
+- Monitor progress toward achieving the Healthy People Objectives and other program goals
+
+**Why is YRBSS important?**
+
+YRBS results help monitor adolescent health behavior changes over time, identify emerging issues, and plan and evaluate programs to support the health of youth.
+
+YRBS data are used by health departments, educators, lawmakers, doctors, and community organizations to inform school and community programs, communications campaigns, and other efforts.
+

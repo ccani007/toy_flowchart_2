@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "nodes/yrbs.html",
+    "href": "nodes/yrbs.html",
+    "title": "Youth Risk Behavior Surveillance System YRBSS",
+    "section": "",
+    "text": "Youth Risk Behavior Surveillance System (YRBSS)\nThe Youth Risk Behavior Surveillance System (YRBSS) is a set of surveys that track behaviors that can lead to poor health in public school students grades 9 through 12.\nThe surveys are administered every other year.\nSome of the health-related behaviors and experiences monitored are:\n\nStudent demographics: sex, sexual identity, race and ethnicity, and grade\nYouth health behaviors and conditions: sexual, injury and violence, bullying, diet and physical activity, obesity, and mental health, including suicide\nSubstance use behaviors: electronic vapor product and tobacco product use, alcohol use, and other drug use\nStudent experiences: parental monitoring, school connectedness, unstable housing, and exposure to community violence a group of teens\n\nData is also collected on sex and sexual orientation. The survey is anonymous, and no identifying data are collected.\nWhat is the purpose of YRBSS?\nThe YRBSS was designed to:\n\nDetermine how often unhealthy behaviors occur\nAssess whether unhealthy behaviors increase, decrease, or stay the same over time\nProvide data at the national, state, territorial and freely associated state, tribal, and local levels\nProvide data comparing different groups of adolescents\nMonitor progress toward achieving the Healthy People Objectives and other program goals\n\nWhy is YRBSS important?\nYRBS results help monitor adolescent health behavior changes over time, identify emerging issues, and plan and evaluate programs to support the health of youth.\nYRBS data are used by health departments, educators, lawmakers, doctors, and community organizations to inform school and community programs, communications campaigns, and other efforts."
+  },
+  {
     "objectID": "functions/ten-fold-CV.html",
     "href": "functions/ten-fold-CV.html",
     "title": "10-Fold CV",
