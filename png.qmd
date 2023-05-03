@@ -2,4 +2,4 @@
 title: "png"
 ---
 
-![](toy_flowchart.drawio.png)
+![](new.svg)
